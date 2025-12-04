@@ -34,7 +34,7 @@ The **Akademy Party (Entity Management)** is a complementary module responsible 
 
 ---
 
-## 💬 Suporte Técnico
+## 💬 Technical Support
 
 If you encounter any errors or require technical support, please contact us through the channels below:
 
