@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akademy_party"
-version = "1.0.0"
-description = "O SAGE Education é um projeto livre e gratuito para educadores, instituições de ensino e governos."
+version = "1.0.1"
+description = "SAGE Education is a free and open-source project for educators, educational institutions, and governments."
 authors = [
     { name = "Zacarias Juliano Capingala", email = "zacariasjuliano@gmail.com" }
 ]
